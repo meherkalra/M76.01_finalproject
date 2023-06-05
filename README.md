@@ -1,7 +1,7 @@
 # M76.01_finalproject
 
 ## Saksham A., Meher K., Cody T. 
-## CS50 Fall 2021, Final Project - Sudoku 2.0
+## Math 76.01 Network Science, Final Project
 
 **GitHub username:**  saksham324, meherkalra, codytheobald
 
